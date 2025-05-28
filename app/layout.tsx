@@ -9,6 +9,11 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
 	title: "AlgoSkin Solution",
 	description: "Automated. Intelligent. Profitable.",
+	icons: {
+		icon: "/favicon.ico",
+		shortcut: "/favicon-16x16.png",
+		apple: "/apple-touch-icon.png",
+	},
 	generator: 'v0.dev'
 }
 
