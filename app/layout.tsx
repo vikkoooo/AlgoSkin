@@ -7,7 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-	title: "AlgoFlow Systems",
+	title: "AlgoSkin Solution",
 	description: "Automated. Intelligent. Profitable.",
 	generator: 'v0.dev'
 }
