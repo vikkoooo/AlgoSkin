@@ -23,13 +23,13 @@ export default function LandingPage() {
           </div>
         </div>
 
-        {/* Contact section - moved up */}
+        {/* Contact section - moved up with fixed alignment */}
         <div className="absolute bottom-16 left-1/2 transform -translate-x-1/2">
           <a
             href="mailto:viktor@lundberg.ai"
-            className="text-sm tracking-wider text-gray-400 hover:text-cyan-400 transition-colors duration-300"
+            className="text-sm tracking-wider text-gray-400 hover:text-cyan-400 transition-colors duration-300 font-mono"
           >
-            VIKTOR@LUNDBERG.AI
+            viktor@lundberg.ai
           </a>
         </div>
       </div>
